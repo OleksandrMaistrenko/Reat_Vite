@@ -1,5 +1,5 @@
 import "./App.css";
-import ShowText from "./text/ShowText";
+import ShowText from "./components/ShowText/ShowText";
 
 function App() {
   return (
